@@ -211,3 +211,5 @@ SELECT
     *
 FROM
     emp_manager;
+    
+commit;
